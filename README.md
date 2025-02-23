@@ -17,7 +17,10 @@ Learners will create a GitHub repository named alx-project-nexus that serves as 
 - Kuberneties
 - Swagger
 - Sql
+- postgress sql
 - linux
+- rabitmq
+- celery
 
 # Important backend development concepts:
 
@@ -34,3 +37,4 @@ Learners will create a GitHub repository named alx-project-nexus that serves as 
 # Best practices and personal takeaways
 
 - Cors mananment in django and setting allowed hosts on deployment with django
+- automating tests
